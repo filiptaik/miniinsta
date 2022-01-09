@@ -2,8 +2,8 @@ let mssql = require('mssql');
 
 let config = {
     user: 'testapp',
-    password: 'testapp',
-    server: '127.0.0.1\\sqlexpress',
+    password: 'password2',
+    server: 'DESKTOP-UP7RE46\\SQLEXPRESS',
     //port: 1433, // Should not set this when connecting to a named instance
     database: 'MiniInsta',
     connectionTimeout: 5000,

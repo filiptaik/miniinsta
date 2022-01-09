@@ -10,10 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "apicache": "^1.6.2",
-    "express": "^4.16.2",
+    "express": "^4.17.2",
     "hbs": "^4.1.2",
     "morgan": "^1.9.0",
-    "mssql": "^4.1.0",
-    "redis": "^3.1.2"
+    "mssql": "^4.3.9",
+    "redis": "^3.1.2",
+    "redis-server": "^1.2.2"
   }
 }
